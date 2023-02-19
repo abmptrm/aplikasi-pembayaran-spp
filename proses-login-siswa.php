@@ -20,7 +20,7 @@ if(mysqli_num_rows($query)>0){
     header('location: ');
 
 }else{
-    echo"<script>alert('Maaf Login Gagal, Silahkan ulangi Lagi'); window.location.assign('index2.php');
+    echo"<script>alert('Maaf Login Gagal, Silahkan ulangi Lagi'); window.location.assign('index.php');
     </script>";
 }
     
