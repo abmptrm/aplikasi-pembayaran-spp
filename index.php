@@ -27,7 +27,7 @@
                     <input type="number" name="nis" class="form-control" placeholder="Masukan NISN anda.." required>
                     </div> 
                     <div class="form-group mb-2">
-                        <button type="submit" class="btn btn-primary"> LOGIN </button>   
+                        <button type="submit" class="btn btn-primary" name="masuk-masyarakat"> LOGIN </button>   
                 </div> 
                 <a href="index2.php"> Login Sebagai Administrator / Petugas </a>      
                 </form>
